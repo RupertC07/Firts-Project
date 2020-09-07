@@ -1,0 +1,73 @@
+ .rupato{
+            color: steelblue;
+            }
+            
+  .working-image {    
+  
+  
+                     width:175px;
+                     height:175px;
+                     float:right;
+                     
+                     }         
+ body{
+ 
+            font-family: sans-serif;
+            line-height:26px ;           
+            color:#777777;
+            
+            }
+
+ h1 { 
+ 
+         font-size: 2.5em;
+         
+         }
+
+.half-width{
+
+             width: 50%;
+             float: left;   }
+             
+             
+.side-image{
+        
+              width:125px;
+              height:125px;
+              padding-left: 25%
+                
+                }    
+                
+ .primary-btn{
+ 
+                 color: white;
+                  background-color: steelblue;
+                  padding: 13px 42px 13px 42px
+                  border-radius: 20px;
+                  text-decoration:none;
+                }
+                    
+ .container{
+ 
+               padding-left: 5%;
+                display:inline-block;
+            }                  
+                
+                
+                
+                
+    .container-perception{
+    
+                  
+                   
+                   border: 2px solid steelblue;
+                   border-radius:2px;
+                   margin: 15px 15px 15px 15px;
+                   padding: 15px 15px 15px 15px;
+                      text-align: center;
+                     }
+           
+                          
+                 
+                    
+                         
